@@ -7,21 +7,15 @@
 - 💼 &nbsp; Working as a Data Analyst / Project Assistant Intern at IBM Brazil.
 - 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence.
 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollycrs&theme=buefy&show_icons=true" />
+<a href="https://github.com/nicollycrs">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=nicollycrs&theme=buefy&show_icons=true"/>
 </a>
 
 <br/>
