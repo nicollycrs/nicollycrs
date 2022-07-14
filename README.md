@@ -6,7 +6,8 @@
 - 🎓 &nbsp; Studying Software Analysis and Development at Senac University Center.
 - 💼 &nbsp; Working as a Data Analyst / Project Assistant Intern at IBM Brazil.
 - 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence.
-
+- 🟩 &nbsp; Currently living in Sao Paulo, Brazil.
+- 📕 &nbsp; Advanced English Speaker.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
