@@ -5,8 +5,7 @@ EN / PT-BR
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Software Analysis and Development at Senac University Center.
-- 💼 &nbsp; Working as a Data Analyst / Project Assistant Intern at IBM Brazil.
-- 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence.
+- 💼 &nbsp; Working as a Data Scientist Intern at IBM Brazil.
 - 🟩 &nbsp; Currently living in Sao Paulo, Brazil.
 - 📕 &nbsp; Advanced English Speaker.
 
@@ -37,8 +36,7 @@ EN / PT-BR
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC.
-- 💼 &nbsp; Estagiária de Projetos / Análise de Dados na IBM Brasil.
-- 🌱 &nbsp; Aprendendo mais sobre Ciência de Dados, Aprendizagem de Máquina e Inteligência Artificial.
+- 💼 &nbsp; Estagiária em Ciência de Dados na IBM Brasil.
 - 🟩 &nbsp; Atualmente vivendo em São Paulo, Brasil.
 - 📕 &nbsp; Inglês avançado.
 
