@@ -1,28 +1,61 @@
-EN / PT-BR
-<h2> Hi there! I'm Nicolly. 👋</h2>
+<h2 align="center">Olá! Eu sou a Nicolly ✨ | Hi there! I'm Nicolly</h2>
 
-<h3> 👩‍💻 &nbsp;About Me </h3>
+<p align="center">
+  Cientista de Dados | Data Scientist  
+</p>
 
-- 🎓 &nbsp; Studying Software Analysis and Development at Senac University Center.
-- 💼 &nbsp; Working as a Data Scientist Intern at IBM Brazil.
-- 🟩 &nbsp; Currently living in Sao Paulo, Brazil.
-- 📕 &nbsp; Advanced English Speaker.
+---
 
-<h3> 🛠 &nbsp;Skills</h3>
+📌 **Sobre mim | About me**
 
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+Sou uma entusiasta da tecnologia, apaixonada por dados, aprendizado contínuo e inovação.  
+Atualmente trabalho como **Cientista de Dados**, com foco em análise, visualização e entrega de valor com dados.
 
-<br/>
+I'm a tech enthusiast passionate about data, continuous learning, and innovation.  
+Currently working as a **Data Scientist**, focusing on analytics, visualization, and delivering value with data.
 
-<a href="https://github.com/nicollycrs">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=nicollycrs&theme=buefy&show_icons=true"/>
-</a>
+---
 
-<br/>
+🎓 **Formação | Education**
 
-<h3> 🤝🏻 &nbsp;Get in touch! </h3>
+- 📊 Bacharelado em Estatística | BSc in Statistics (FMU)
+- 🧠 Bacharelado em Ciência de Dados | BSc in Data Science (Univesp)
+- 🤖 Pós-graduação em Inteligência Artificial Aplicada | Postgraduate in Applied AI (UFPR)
+
+---
+
+🛠 **Ferramentas e Tecnologias | Tools & Technologies**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nicollycrsouza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:nicollycrsouza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3C5280?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+💻 **Linguagens mais usadas | Most used languages**
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nicollycrs&layout=compact&langs_count=8&hide=html,css)
+
+---
+
+💬 **Frase que me inspira | Quote that inspires me**
+
+> _“Ninguém ignora tudo. Ninguém sabe tudo. Todos nós sabemos alguma coisa.  
+> Todos nós ignoramos alguma coisa. Por isso aprendemos sempre.”_
+
+---
+
+✨ Obrigada por visitar meu perfil! | Thanks for stopping by!
