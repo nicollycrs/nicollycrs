@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou a Nicolly ✨ | Hi there! I'm Nicolly</h2>
 
 <p align="center">
-  Cientista de Dados | Data Scientist  
+  Cientista de Dados | Data Scientist  <br>
   Engenheira de Dados | Data Engineer
 </p>
 
@@ -42,12 +42,6 @@ Currently working as a **Data Engineer/Scientist**, focusing on analytics, visua
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-💻 **Linguagens mais usadas | Most used languages**
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nicollycrs&layout=compact&langs_count=8&hide=html,css)
 
 ---
 
