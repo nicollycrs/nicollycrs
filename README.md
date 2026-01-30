@@ -2,6 +2,7 @@
 
 <p align="center">
   Cientista de Dados | Data Scientist  
+  Engenheira de Dados | Data Engineer
 </p>
 
 ---
@@ -9,16 +10,15 @@
 📌 **Sobre mim | About me**
 
 Sou uma entusiasta da tecnologia, apaixonada por dados, aprendizado contínuo e inovação.  
-Atualmente trabalho como **Cientista de Dados**, com foco em análise, visualização e entrega de valor com dados.
+Atualmente trabalho como **Engenheira/Cientista de Dados**, com foco em análise, visualização e entrega de valor com dados.
 
 I'm a tech enthusiast passionate about data, continuous learning, and innovation.  
-Currently working as a **Data Scientist**, focusing on analytics, visualization, and delivering value with data.
+Currently working as a **Data Engineer/Scientist**, focusing on analytics, visualization, and delivering value with data.
 
 ---
 
 🎓 **Formação | Education**
 
-- 📊 Bacharelado em Estatística | BSc in Statistics (FMU)
 - 🧠 Bacharelado em Ciência de Dados | BSc in Data Science (Univesp)
 - 🤖 Pós-graduação em Inteligência Artificial Aplicada | Postgraduate in Applied AI (UFPR)
 
